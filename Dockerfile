@@ -1,0 +1,19 @@
+FROM node:15 as builder
+
+WORKDIR 
+
+COPY
+
+RUN 
+
+RUN 
+
+FROM  
+
+WORKDIR 
+
+RUN  
+
+COPY 
+
+ENTRYPOINT [ ]
