@@ -14,6 +14,7 @@ function App() {
         <a href="https://rderik.com">rderik.com</a>
       </footer>
     </div>
+  // This is comment
   );
 }
 
